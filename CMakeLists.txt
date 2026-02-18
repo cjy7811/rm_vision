@@ -13,7 +13,7 @@ include_directories(src/include)
 
 # 可执行文件：主程序
 add_executable(test
-    src/main.cpp
+    src/search.cpp
 )
 
 # 链接OpenCV库
