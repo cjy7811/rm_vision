@@ -433,7 +433,7 @@ int main() {
         use_camera = true;
         cout << "Using camera as source (Multi-thread mode)..." << endl;
     } else {
-        source = "../vid/test_video1.mp4";  // 默认视频文件路径
+        source = "../vid/test_video3.avi";  // 默认视频文件路径
         cout << "Using video file (Single-thread mode): " << source << endl;
     }
     
